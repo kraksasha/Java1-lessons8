@@ -285,4 +285,5 @@ public class Calculator extends JFrame {
     public int delen(int a, int b){
         return a / b;
     }
+
 }
